@@ -1,5 +1,5 @@
 import React from "react";
-import ImageToggleOnHover from "../src/imageToggleOnHover";
+import ImageToggleOnHover from "../../src/Chapter2/imageToggleOnHover";
 
 const ImageHover = () => {
     return (
