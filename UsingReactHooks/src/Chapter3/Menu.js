@@ -7,12 +7,12 @@ const Menu = () => {
             <div className='navbar'>
                 <ul className='navbar-nav'>
                     <li className='nav-item'>
-                        <Link href='/'>
+                        <Link href='/Chapter3/'>
                             <a className='nav-link'>Home</a>
                         </Link>
                     </li>
                     <li className='nav-item'>
-                        <Link href='/speakers'>
+                        <Link href='/Chapter3/speakers'>
                             <a className='nav-link'>Speakers</a>
                         </Link>
                     </li>
